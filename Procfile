@@ -1,1 +1,1 @@
-worker: node bot.js
+worker: ruby The-OGG-Bot
