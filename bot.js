@@ -6,8 +6,8 @@ client.on('ready', () => {
 });
 
 client.on('message', message => {
-    if (message.content === 'ping') {
-    	message.channel.send('PONG!');
+    if (message.content === 'Whos The Best People In This Server') {
+    	message.channel.send('Why Skillz And Square Of Course!');
   	}
 });
 
